@@ -12,10 +12,11 @@ packages:
   auto_orientation:
     dependency: transitive
     description:
-      name: auto_orientation
-      sha256: cd56bb59b36fa54cc28ee254bc600524f022a4862f31d5ab20abd7bb1c54e678
-      url: "https://pub.dev"
-    source: hosted
+      path: "."
+      ref: agp_compatibility
+      resolved-ref: "940452df881d7e71b57b5f8a73d3143048b7c59a"
+      url: "https://github.com/Marco4763/auto_orientation.git"
+    source: git
     version: "2.3.1"
   boolean_selector:
     dependency: transitive
@@ -148,7 +149,7 @@ packages:
       path: ".."
       relative: true
     source: path
-    version: "4.2.12+1"
+    version: "4.2.13"
   flutter_plugin_android_lifecycle:
     dependency: transitive
     description:
